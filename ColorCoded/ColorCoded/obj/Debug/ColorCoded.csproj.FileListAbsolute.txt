@@ -1,0 +1,9 @@
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\bin\Debug\ColorCoded.exe.config
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\bin\Debug\ColorCoded.exe
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\bin\Debug\ColorCoded.pdb
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\obj\Debug\ColorCoded.csprojResolveAssemblyReference.cache
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\obj\Debug\ColorCoded.Properties.Resources.resources
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\obj\Debug\ColorCoded.csproj.GenerateResource.Cache
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\obj\Debug\ColorCoded.exe
+c:\users\v-fexrt\documents\visual studio 2013\Projects\ColorCoded\ColorCoded\obj\Debug\ColorCoded.pdb
+C:\Users\V-FEXrt\Documents\Visual Studio 2013\Projects\ColorCoded\ColorCoded\obj\Debug\ColorCoded.UserInterface.resources
